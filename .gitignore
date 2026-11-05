@@ -1,0 +1,36 @@
+# STM32CubeIDE / Eclipse
+.metadata/
+.settings/
+.cproject
+.project
+Debug/
+Release/
+*.launch
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.size
+
+# Build directories
+build/
+Build/
+
+# IDE-specific
+.mxproject
+*.ioc.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
